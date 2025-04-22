@@ -20,7 +20,8 @@ footer{
 
 footer{
     text-align: center;
-    padding: 14px;
-    margin: 7px;
+    padding: 7px;
     background-color: blue;
+    border: 7px solid black;
+    border-top-left-radius: 34px;
 }
