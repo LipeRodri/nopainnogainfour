@@ -17,3 +17,11 @@ footer{
 *{
     text-transform: capitalize;
 }
+
+footer{
+    text-align: center;
+    padding: 7px;
+    background-color: blue;
+    border: 7px solid black;
+    border-top-left-radius: 34px;
+}
